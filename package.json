@@ -11,8 +11,10 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongoose": "^5.3.11"
+    "is-json": "^2.0.1",
+    "request": "^2.88.0"
   },
-  "engines":{"node": "10.13.0"}
+  "engines": {
+    "node": "10.13.0"
+  }
 }
-
